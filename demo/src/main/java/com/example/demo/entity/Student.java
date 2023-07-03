@@ -10,5 +10,6 @@ import javax.persistence.Table;
 public class Student {
     @Id
     private Integer id;
+    private String name;
 
 }
