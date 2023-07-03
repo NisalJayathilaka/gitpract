@@ -9,6 +9,9 @@ public class StudentController {
         System.out.println("asasasasasasa");
     }
 
+    public String aaa(){
+        return "asasasas";
+    }
     public void mmmm(){
         System.out.println("cvccvcccvcvcvcvcv");
     }
@@ -18,6 +21,7 @@ public class StudentController {
 
     public void asasas(){
         System.out.println("cvccvccvccvcvcv");
+
     }
 
 }
