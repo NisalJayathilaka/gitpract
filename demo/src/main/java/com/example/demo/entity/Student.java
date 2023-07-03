@@ -11,5 +11,6 @@ public class Student {
     @Id
     private Integer id;
     private String name;
+    private Integer age;
 
 }
