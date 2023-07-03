@@ -8,4 +8,9 @@ public class StudentController {
     public void abc(){
         System.out.println("asaasasas");
     }
+
+    public void asasas(){
+        System.out.println("cvccvccvccvcvcv");
+    }
+
 }
